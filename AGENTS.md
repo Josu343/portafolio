@@ -144,6 +144,8 @@ En la implementación inicial pasaron las cinco pruebas, `npm run check` y la co
 
 ## 6. Publicación en GitHub Pages
 
+El sitio está publicado en `https://josu343.github.io/portafolio/`, desde el repositorio público `Josu343/portafolio`. La carpeta local ya es un repositorio Git con rama `main` y remoto `origin`. El PDF original está excluido en `.gitignore`; conservar esta protección. Normalizar la barra final de `BASE_URL` antes de concatenar nombres de recursos públicos.
+
 La configuración actual genera únicamente archivos estáticos. **GitHub Pages no ejecuta NestJS, Java ni PostgreSQL**. Esas tecnologías se describen como experiencia del propietario, no como dependencias del portafolio.
 
 - `astro.config.mjs` recibe `SITE_URL` y `BASE_PATH` del entorno.

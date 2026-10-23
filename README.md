@@ -2,6 +2,13 @@
 
 Página personal estática creada con Astro, Tailwind CSS y TypeScript. El contenido procede de `CV_JUNIO_2026.pdf`, junto con la disponibilidad laboral indicada por su propietario.
 
+## Sitio publicado
+
+- Web: https://josu343.github.io/portafolio/
+- Repositorio público: https://github.com/Josu343/portafolio
+- GitHub Pages usa GitHub Actions y se actualiza al subir cambios a `main`.
+- El PDF original está excluido mediante `.gitignore`; no se publica en el repositorio ni en la web.
+
 ## Ver la página en tu computadora
 
 Necesitas Node.js 24 LTS (recomendado) o una versión compatible con Astro, como Node.js 22.23.4 o superior.
