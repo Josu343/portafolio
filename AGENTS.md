@@ -8,7 +8,7 @@ El usuario aprobó estas decisiones:
 
 - Usar **Astro + Tailwind CSS + TypeScript**; el usuario delegó la elección tecnológica.
 - Crear una web moderna, adaptable a celulares y computadoras, con modo claro y oscuro.
-- Utilizar la información existente en `CV_JUNIO_2026.pdf`, sin inventar datos para completar secciones.
+- Utilizar la información existente en `CV_JUNIO_2026.pdf`, y accede a mi pagina de linkedin ........ sin inventar datos para completar secciones.
 - Mostrar expresamente **«Disponible para trabajar»**.
 - Facilitar futuras ampliaciones y la publicación gratuita en **GitHub Pages**.
 
